@@ -1,0 +1,50 @@
+body {
+	background-image: url('https://icerikyukle.github.io/logo/banner.png');
+	background-repeat: repeat-y;
+	background-size: 50% 90%;
+	background-position: 45%;
+	font-family: Comic Sans MS;
+}
+.navbar {
+	min-width: 100%;
+	min-height: 110px;
+	max-height: 110px;
+	margin: 0;
+	padding: 0;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: #336699;
+	z-index: 999999999;
+}
+.footer {
+	min-width: 100%;
+	min-height: 200px;
+	max-height: 200px;
+	margin: 100vh 0;
+	padding: 0;
+	position: absolute;
+	top: 100vh;
+	left: 0;
+	background-color: #336699;
+}
+.img {
+	pointer-events: none;
+}
+.imgpx {
+	width: 95px;
+	margin: 10px auto;
+}
+.container {
+	margin: 120px 0px 0px;
+	color: white;
+}
+.footercont {
+	margin: 80px 40px;
+	color: gray;
+}
+.cpry {
+	font-size: 1.5rem;
+	text-align: center;
+	margin: 150px 0px;
+}
